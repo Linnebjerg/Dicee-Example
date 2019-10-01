@@ -1,1 +1,1 @@
-# Dicee-Example
+This is an example of a simple 'Dicee' Game. When the page is loaded, two 'dice' will be rolled - one for Player 1 and one for Player 2. Dependent on which player gets the highest die-value, the headlien will correspond an appropriate result of either; "Player 1 wins!", "Player 2 wins!" or "Draw!  
